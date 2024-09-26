@@ -1,0 +1,22 @@
+{
+  "name": "coffee-store-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "debug": "^4.3.7",
+    "express": "^4.21.0",
+    "react-router-dom": "^6.26.2",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+  
+}
